@@ -65,6 +65,9 @@
 				<ContextMenu name="ItemListУправлениеПоискомКонтекстноеМеню" id="21"/>
 				<ExtendedTooltip name="ItemListУправлениеПоискомРасширеннаяПодсказка" id="22"/>
 			</SearchControlAddition>
+			<Events>
+				<Event name="OnChange">ItemListПриИзменении</Event>
+			</Events>
 			<ChildItems>
 				<LabelField name="ItemListНомерСтроки" id="23">
 					<DataPath>Объект.ItemList.LineNumber</DataPath>
@@ -95,6 +98,9 @@
 					<EditMode>EnterOnInput</EditMode>
 					<ContextMenu name="ItemListQuantityКонтекстноеМеню" id="30"/>
 					<ExtendedTooltip name="ItemListQuantityРасширеннаяПодсказка" id="31"/>
+					<Events>
+						<Event name="OnChange">ItemListQuantityПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ItemListPrice" id="32">
 					<DataPath>Объект.ItemList.Price</DataPath>
@@ -107,6 +113,9 @@
 					<EditMode>EnterOnInput</EditMode>
 					<ContextMenu name="ItemListPriceКонтекстноеМеню" id="33"/>
 					<ExtendedTooltip name="ItemListPriceРасширеннаяПодсказка" id="34"/>
+					<Events>
+						<Event name="OnChange">ItemListPriceПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ItemListSum" id="35">
 					<DataPath>Объект.ItemList.Sum</DataPath>
