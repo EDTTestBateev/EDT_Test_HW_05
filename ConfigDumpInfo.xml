@@ -6,7 +6,9 @@
 			<Metadata name="AccumulationRegister.StockInventory.Dimension.Item" id="e266ddb3-ba76-4742-a66b-ca45bb955a4f"/>
 		</Metadata>
 		<Metadata name="Catalog.Goods" id="a392240a-78d7-49ab-868d-e391ce380df5" configVersion="c9275e91ef1e784e8fb2e0ac889ebdb200000000"/>
-		<Metadata name="Configuration.Конфигурация" id="258ea402-104a-44a6-bca7-eeade7f8014d" configVersion="73a8f0c6af12454a95cc2d1a7fc7638f00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиент" id="eee51548-3a46-4e09-b146-b73cb9318407" configVersion="e165513dc18d2140bc58b7481dff602d00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиент.Module" id="eee51548-3a46-4e09-b146-b73cb9318407.0" configVersion="33046c0797fa0d4b974bd5528bdd90ac00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="258ea402-104a-44a6-bca7-eeade7f8014d" configVersion="822caf2abd305241988cf8260b1a139500000000"/>
 		<Metadata name="Document.GoodsReceipt" id="40df4900-eec5-47cd-a2c3-4605f3a64b7d" configVersion="ba4143c7f0c36744b72ca76e9b16d60d00000000">
 			<Metadata name="Document.GoodsReceipt.Attribute.Comment" id="0ac3248f-fdaa-44d2-9bed-c967495db038"/>
 			<Metadata name="Document.GoodsReceipt.TabularSection.ItemList" id="0cc1236e-6f05-4da8-bb94-3607a7728540"/>
@@ -16,8 +18,8 @@
 			<Metadata name="Document.GoodsReceipt.Attribute.TotalSum" id="92d5ed90-284b-4dd8-803f-25105d389b22"/>
 			<Metadata name="Document.GoodsReceipt.TabularSection.ItemList.Attribute.Price" id="cd69429d-b1fb-48e1-96dc-c7d71c4746b9"/>
 		</Metadata>
-		<Metadata name="Document.GoodsReceipt.Form.DocumentForm" id="54385ed7-7e08-4deb-83c7-4b7e6de4c4c5" configVersion="a740b482bcbf264cba6d7cde5ed4e57100000000"/>
-		<Metadata name="Document.GoodsReceipt.Form.DocumentForm.Form" id="54385ed7-7e08-4deb-83c7-4b7e6de4c4c5.0" configVersion="167728ee0e12a34183fac88e4ddf5c5000000000"/>
+		<Metadata name="Document.GoodsReceipt.Form.DocumentForm" id="54385ed7-7e08-4deb-83c7-4b7e6de4c4c5" configVersion="98cfd6a1ba45484893321eca56e5c1ed00000000"/>
+		<Metadata name="Document.GoodsReceipt.Form.DocumentForm.Form" id="54385ed7-7e08-4deb-83c7-4b7e6de4c4c5.0" configVersion="86cf0560fd23e742975056fb130091d900000000"/>
 		<Metadata name="Document.GoodsReceipt.Form.ListForm" id="1f1226b2-9ec5-4e0e-a21c-d09ef37904fd" configVersion="4af248f1f6f7444f8b1afe6028221e7a00000000"/>
 		<Metadata name="Document.GoodsReceipt.Form.ListForm.Form" id="1f1226b2-9ec5-4e0e-a21c-d09ef37904fd.0" configVersion="63b0375b0289b54e88c0620ac12ab19800000000"/>
 		<Metadata name="Document.GoodsReceipt.ObjectModule" id="40df4900-eec5-47cd-a2c3-4605f3a64b7d.0" configVersion="e8f91bcdf0021f46a6041266b40ee3b100000000"/>
@@ -30,8 +32,8 @@
 			<Metadata name="Document.GoodsSale.Attribute.TotalSum" id="abee7330-1037-424a-a129-436e4adf11fd"/>
 			<Metadata name="Document.GoodsSale.TabularSection.ItemList.Attribute.Quantity" id="cefc725c-ce7c-4aeb-9c0a-9de78c850a60"/>
 		</Metadata>
-		<Metadata name="Document.GoodsSale.Form.DocumentForm" id="8008ae8e-3bd0-432b-a753-f4ae8855670f" configVersion="45ce527eab0e0e47ad6db5110b31b0de00000000"/>
-		<Metadata name="Document.GoodsSale.Form.DocumentForm.Form" id="8008ae8e-3bd0-432b-a753-f4ae8855670f.0" configVersion="4ed21d9918afe344962bdaffda9976c600000000"/>
+		<Metadata name="Document.GoodsSale.Form.DocumentForm" id="8008ae8e-3bd0-432b-a753-f4ae8855670f" configVersion="95d920d39a57444fa8c40c3341a4694300000000"/>
+		<Metadata name="Document.GoodsSale.Form.DocumentForm.Form" id="8008ae8e-3bd0-432b-a753-f4ae8855670f.0" configVersion="1ad92eadd991b54aa50abbd7043831b700000000"/>
 		<Metadata name="Document.GoodsSale.Form.ListForm" id="182766c5-d745-4e24-944b-b4e60486f2f1" configVersion="98119d9aa676d84597784bb1b86d183400000000"/>
 		<Metadata name="Document.GoodsSale.Form.ListForm.Form" id="182766c5-d745-4e24-944b-b4e60486f2f1.0" configVersion="7cc3c8eaa40d1a4b9f75d9cb6535ffd500000000"/>
 		<Metadata name="Document.GoodsSale.ObjectModule" id="af080429-d134-40ab-8f29-5ecd32c64983.0" configVersion="ed55ea546ed828449ac136fec535497d00000000"/>
